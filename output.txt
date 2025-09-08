@@ -1,0 +1,3 @@
+Hello, TuteDude!
+This is a sample output file.
+Goodbye!
